@@ -1,5 +1,13 @@
-<div align="center">
-  <img src="https://www.canva.com/design/DAG7mN5D6dU/YiikAz7plAl4yGmfwUteHw/view?utm_content=DAG7mN5D6dU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8d4883f06"
-       alt="Banner Daniel Pedraza Data Analyst"
-       style="width: 100%; max-width: 1200px; border-radius: 8px;">
+<div align="center" style="padding: 20px;">
+  <img 
+    src="https://raw.githubusercontent.com/dpedraza-da/assets/refs/heads/main/Daniel%20Pedraza%20Data%20Analyst%20(2).png"
+    alt="Daniel Pedraza Data Analyst Banner"
+    style="
+      width: 100%;
+      max-width: 1300px;
+      border: 2px solid #0de4d8;
+      border-radius: 14px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+    "
+  >
 </div>
